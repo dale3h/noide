@@ -1,7 +1,8 @@
 Note
 ====
-- It just contains support for working over HTTPS protocol. 
-- Work on sub urls on the way :)
+- Original Noide 
++ Support for run over HTTPS protocol. (https://mysite.com)
++ Support for run under sub urls (https://mysite.com/noide)
 
 noide
 ====
