@@ -1,3 +1,7 @@
+Note
+====
+- It just contains support for working over HTTPS protocol. 
+- Work on sub urls on the way :)
 
 noide
 ====
