@@ -1,3 +1,8 @@
+Note
+====
+- Original Noide 
++ Support for run over HTTPS protocol. (https://mysite.com)
++ Support for run under sub urls (https://mysite.com/noide)
 
 noide
 ====
